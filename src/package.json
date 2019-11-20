@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@shopify/polaris-icons": "latest",
+    "@shopify/polaris": "latest"
+  },
+  "keywords": [],
+  "name": "sms-dashboard-mock",
+  "description": ""
+}
